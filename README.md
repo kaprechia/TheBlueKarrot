@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -38,7 +37,7 @@
     main {
       max-width: 600px;
       margin: 40px auto;
-      background: white;
+      background: gold;
       padding: 30px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
       border-radius: 8px;
@@ -49,7 +48,7 @@
       text-align: center;
     }
     form label {
-      display: block;
+      display: round;
       margin-bottom: 6px;
       font-weight: 600;
       color: #333;
@@ -94,7 +93,8 @@
 <body>
 
 <header>
-  <!-- Replace 'logo.png' with your actual logo file name or URL -->
+![Uploading image.png…]()
+
   <img src="logo.png" alt="The Blue Karrot Logo" />
   <h1>The Blue Karrot</h1>
   <h2>Catering</h2>
